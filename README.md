@@ -1,6 +1,6 @@
 
 
-# Destiny Token Project ($# DTP)
+# Destiny Token Project ($DTP)
 
 
 
