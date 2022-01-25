@@ -1,3 +1,5 @@
+![Transparent_logo_dtp](https://user-images.githubusercontent.com/94541118/150994297-c39c55d9-6e6d-4c65-9886-c72aeb34d81d.png)
+
 # Destiny Token Project ($DTP)
 # Algorithmic Stablecoin & Index Token
 
