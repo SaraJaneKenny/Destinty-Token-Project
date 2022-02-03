@@ -3,6 +3,7 @@
 # Destiny Token Project ($DTP)
 # Crypto Index Token
 
-The Destiny Token will be built on the Algorand blockchain and backed by the top 9 + Algo cryptocurrencies by market cap.
-$DTP gives holders real-time price exposure to top cryptocurrencies all in one single token.
+The Destiny Token will be built on the Algorand blockchain and backed by the top 9 + $ALGO cryptocurrencies by market cap.
+
+$DTP gives holders real-time price exposure to top cryptocurrencies all in one single token, eliminating the feeling of FOMO and puposing greater opportunities for investment.
 
